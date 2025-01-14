@@ -1,4 +1,5 @@
 # apnacollage-demo
 This is my first git repository.
 <br>
-Author : Akanksha Pawar
+Author : Akanksha Ahire (Satana)
+
